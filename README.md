@@ -88,11 +88,11 @@ def about_me():
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyushpatil-art&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0366D6&text_color=8b949e" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=piyushpatil-art&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushpatil-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=0366D6&text_color=8b949e" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushpatil-art&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushpatil-art&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushpatil-art&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -102,7 +102,7 @@ def about_me():
 
 <div align="center">
 
-![Snake Animation](https://github.com/piyushpatil-art/piyushpatil-art/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/piyushpatil-art/piyushpatil-art/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -111,10 +111,9 @@ def about_me():
 ## 🏆 Achievements
 
 <div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=piyushpatil-art&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=piyushpatil-art&theme=tokyonight&no-frame=true&margin-w=15" />
 </div>
+
 
 ---
 
