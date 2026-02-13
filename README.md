@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Hey 👋🏻 I'm PIYUSH **
+# **Hey 👋🏻 I'm Piyush**
 ## _B.Tech AI & ML | Problem Solver | ML Enthusiast_
 
 ```
@@ -13,14 +13,13 @@
 
 ---
 
-## � About Me
+## 👤 About Me
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
-- 🎯 **B.Tech Student** specializing in AI & Machine Learning  
-- 🔥 Passionate about **Flutter** & **Mobile App Development**
+- 🎓 **B.Tech Student** specializing in AI & Machine Learning  
 - 💻 Proficient in **Python**, **JavaScript**, **Dart**
 - 🤖 Exploring **ML**, **Deep Learning**, **Data Science**
 - 🚀 Building **Firebase-powered** real-world applications
@@ -53,11 +52,10 @@ def about_me():
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:piyush@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushpatil06)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:piyushpatil2230@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/piyushpatil-art)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/piyush03149)
 
 </div>
 
@@ -77,8 +75,7 @@ def about_me():
 <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,mongodb" alt="Backend" height="40"/>
 
 **AI & Data Science:**  
-<img src="https://skillicons.dev/icons?i=python" alt="AI" height="40"/>  
-NumPy • Pandas • Scikit-learn • TensorFlow
+<img src="https://skillicons.dev/icons?i=tensorflow,python" alt="AI & Data" height="40"/>
 
 **Tools & Platforms:**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,postman" alt="Tools" height="40"/>
@@ -87,7 +84,7 @@ NumPy • Pandas • Scikit-learn • TensorFlow
 
 ---
 
-## � GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -121,31 +118,13 @@ NumPy • Pandas • Scikit-learn • TensorFlow
 
 ---
 
-## 📊 Activity Status
-
 <div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=piyushpatil-art&theme=tokyo-night&hide_border=true&bg_color=1a1b27)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you found my work interesting, consider giving a star!
-
----
-
-<img src="https://raw.githubusercontent.com/piyushpatil-art/piyushpatil-art/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
----
 
 **💬 Let's build something amazing together!**
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=piyushpatil-art.piyushpatil-art&left_color=0366D6&right_color=1a1b27&left_text=Profile%20Views)
 
-<sub>**Last updated:** February 2026 | Made with ❤️ by Piyush Patil</sub>
+<sub>Made with ❤️ by Piyush Patil</sub>
 
 </div>
 
