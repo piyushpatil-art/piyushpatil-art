@@ -87,10 +87,10 @@ def about_me():
 ## 📊 GitHub Analytics
 
 <div align="center">
+  
+<img src="https://ghstats.vercel.app/api?username=piyushpatil-art&show_icons=true&theme=dark" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=piyushpatil-art&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushpatil-art&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://ghstats.vercel.app/api/top-langs/?username=piyushpatil-art&layout=compact&theme=dark" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushpatil-art&theme=tokyonight&hide_border=true" />
 
@@ -111,9 +111,10 @@ def about_me():
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyushpatil-art&theme=tokyonight&no-frame=true&margin-w=15" />
-</div>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=piyushpatil-art&no-frame=true" />
 
+</div>
 
 ---
 
