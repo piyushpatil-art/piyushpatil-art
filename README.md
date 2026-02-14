@@ -88,11 +88,7 @@ def about_me():
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=piyushpatil-art&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushpatil-art&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushpatil-art&theme=tokyonight&hide_border=true" />
+![](https://github-readme-activity-graph.vercel.app/graph?username=piyushpatil-art&theme=tokyonight&hide_border=true&bg_color=1a1b27)
 
 </div>
 
@@ -102,7 +98,7 @@ def about_me():
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/piyushpatil-art/piyushpatil-art/output/github-contribution-grid-snake.svg" />
+[![Contribution Stats](https://img.shields.io/badge/Contributions-Tracked-0366D6?style=flat&logo=github&logoColor=white)](https://github.com/piyushpatil-art)
 
 </div>
 
@@ -111,9 +107,12 @@ def about_me():
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyushpatil-art&theme=tokyonight&no-frame=true&margin-w=15" />
-</div>
 
+[![Developer Badge](https://img.shields.io/badge/Developer-Expert-0366D6?style=flat&logo=github&logoColor=white)](https://github.com/piyushpatil-art)
+[![AI/ML Enthusiast](https://img.shields.io/badge/AI%2FML-Enthusiast-0366D6?style=flat&logo=python&logoColor=white)](https://github.com/piyushpatil-art)
+[![Code Quality](https://img.shields.io/badge/Code%20Quality-High-0366D6?style=flat&logo=checkmark&logoColor=white)](https://github.com/piyushpatil-art)
+
+</div>
 
 ---
 
